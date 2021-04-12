@@ -2,7 +2,7 @@
 👀 I’m learning Programming and Digital Stuff as well
 
 # About me 👨‍💻
-I’m a Frontend Developer focused on Javascript, Digital Marketing and still learn Full-Stack Development. I grew up getting an usual life as a children in Indonesia. I have always been curious about learning something new and more about the world outside my own.
+I’m a Frontend Developer focused on Javascript, Digital Stuff and still learn Full-Stack Development. I grew up getting an usual life as a children in Indonesia. I have always been curious about learning something new and more about the world outside my own.
 
 ## Areas of interest💡
 * Digital Content
