@@ -1,6 +1,16 @@
-- 👋 Hi, I’m Rizal Andy
-- 👀 I’m interested in Programming and Digital Creator as well
-- 🌱 I’m a people who learn something new and loving to growth
+👋 Hi, I’m Rizal Andy
+👀 I’m learning Programming and Digital Stuff as well
+
+# About me 👨‍💻
+I’m a frontend developer focused on Javascript, Digital Marketing and still learn Full-Stack Development. I grew up getting an usual life as a children in Indonesia. I have always been curious about learning something new and more about the world outside my own.
+
+## Areas of interest💡
+* Digital Content
+* Writing Weird Stuff
+* Making Bad Jokes
+* Love Copying and Pasting
+* Make a legacy
+* Touching the Star and the Moon
 
 Now, I work at <a href="https://vokanesia.id/">Vokanesia</a> as a Frontend Programmer. Apart from being a Programmer at Vokanesia, I also work in the Event Organizer as a Digital Marketing. <br><br>
 For more information about me, you can click on the button below <br>
