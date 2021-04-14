@@ -18,4 +18,4 @@ I’m a Frontend Developer focused on Coding, Digital Stuff and still learn Full
 
 Now, I work at <a href="https://vokanesia.id/">Vokanesia</a> as a Frontend Programmer. Apart from being a Programmer at Vokanesia, I also work in the Event Organizer as a Digital Marketing. <br><br>
 For more information about me, you can click on the button below <br>
-<a href="#"><button>CLICK HERE</button></a>
+<a href="www.linkedin.com/in/rizalandyyy"><button>CLICK HERE</button></a>
