@@ -1,4 +1,4 @@
-[![rizalandyyy](https://i.postimg.cc/xdsQxPGZ/bg.jpg)](https://github.com/rizalandyyy/)
+[![rizalandyyy](https://i.postimg.cc/Ghnr9tXH/bg.png)](https://github.com/rizalandyyy)
 
 👋 Hi, I’m Rizal Andy
 👀 I’m learning Programming and Digital Stuff as well
