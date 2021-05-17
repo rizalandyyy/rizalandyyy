@@ -1,7 +1,7 @@
 [![rizalandyyy](https://i.postimg.cc/Ghnr9tXH/bg.png)](https://github.com/rizalandyyy)
 
-👋 Hi, I’m Rizal Andy
-👀 I’m learning Programming and Digital Stuff as well
+👋 Hi, I’m Rizal Andy <br>
+👀 I’m learning Programming and Digital Stuff as well <br>
 ![](https://komarev.com/ghpvc/?username=rizalandyyy&color=brightgreen)
 
 # About me 👨‍💻
