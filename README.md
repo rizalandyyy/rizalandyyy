@@ -9,7 +9,7 @@
 # About me 👨‍💻
 I’m a Developer focused on Coding, Digital Stuff and still learn Full-Stack Development. I grew up getting an usual life as a children in Indonesia. I have always been curious about learning something new and more about the world outside my own.
 
-## Areas of interest💡💡
+# Areas of interest💡💡
 * Digital Content
 * Writing Weird Stuff
 * Making Bad Jokes
