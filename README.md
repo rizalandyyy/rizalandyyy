@@ -1,4 +1,4 @@
-[![rizalandyyy](https://i.postimg.cc/Ghnr9tXH/bg.png)](https://github.com/rizalandyyy)
+[![rizalandyyy](https://i.postimg.cc/Gh2hB7Wk/1638721357136.jpg)](https://github.com/rizalandyyy)
 
 
 ![](https://komarev.com/ghpvc/?username=rizalandyyy&color=brightgreen) <br>
