@@ -7,7 +7,7 @@
 👀 I’m learning programming and digital marketing as well <br>
 
 # About me 👨‍💻
-Grow up in a technology environment and always have fun with it. Website developers who are still learning how to code quickly and precisely without getting sleepy and dizzy. On the one hand, I really like to see growth in the world of digital marketing. it's amazing right, to see high traffic coming to our business. 
+Grow up in a technology environment and always have fun with it. Website developers who are still learning how to code quickly and precisely without getting sleepy and dizzy. On the other side, I really like to see growth in the world of digital marketing. it's amazing right, to see high traffic coming to our business. 
 
 Email: rzalandy@gmail.com <br>
 Website: https://rizalandy.com/ <br>
