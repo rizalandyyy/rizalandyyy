@@ -27,7 +27,7 @@ If you want to contact me, just say hi on my social media. Cheers!
 
 ##
 
-Now, I work at <a href="https://vokanesia.id/">Vokanesia</a> as a Software Programmer. A part from being a Software Programmer at Vokanesia, I also work in the Event Organizer as a Digital Marketing. <br><br>
+Now, I work at <a href="https://vokanesia.id/">Vokanesia</a> as a Software Programmer.<br><br>
 
 For more information about me, you can click on the button below <br>
 [CLICK HERE](https://www.linkedin.com/in/rizalandyyy/)
