@@ -18,12 +18,12 @@ Linkedin: https://www.linkedin.com/in/rizalandyyy/ <br>
 If you want to contact me, just say hi on my social media. Cheers!
 
 # Areas of interest💡💡
-* Digital Content
-* Writing Weird Stuff
-* Making Bad Jokes
-* Love Copying and Pasting
+* Digital content
+* Writing weird stuff
+* Making bad jokes
+* Love copying and pasting
 * Make a legacy
-* Touching the Star and the Moon
+* Touching the star and the moon
 
 ##
 
