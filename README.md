@@ -9,11 +9,11 @@
 # About me 👨‍💻
 Grow up in a technology environment and always have fun with it. Website developers who are still learning how to code quickly and precisely without getting sleepy and dizzy. On the one hand, I really like to see growth in the world of digital marketing. it's amazing right, to see high traffic coming to our business. 
 
-Email: rzalandy@gmail.com
-Website: https://rizalandy.com/
-Instagram: https://www.instagram.com/rizalandyyy
-Twitter: https://twitter.com/rizalandyyy
-Linkedin: https://www.linkedin.com/in/rizalandyyy/
+Email: rzalandy@gmail.com <br>
+Website: https://rizalandy.com/ <br>
+Instagram: https://www.instagram.com/rizalandyyy <br>
+Twitter: https://twitter.com/rizalandyyy <br>
+Linkedin: https://www.linkedin.com/in/rizalandyyy/ <br>
 
 If you want to contact me, just say hi on my social media. Cheers!
 
