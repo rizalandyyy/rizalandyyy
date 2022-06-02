@@ -27,7 +27,7 @@ If you want to contact me, just say hi on my social media. Cheers!
 
 ##
 
-Now, I work at <a href="https://vokanesia.id/">Vokanesia</a> as a Software Programmer.<br><br>
+Now, I work at <a href="https://daihatsu.co.id/">PT. Astra Daihatsu Motor</a> as a Software Developer.<br><br>
 
 For more information about me, you can click on the button below <br>
 [CLICK HERE](https://www.linkedin.com/in/rizalandyyy/)
