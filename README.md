@@ -46,7 +46,7 @@ Guiding teams through system design and architecture. Building robust systems wi
 **RevoU · Team Lead & Student Development Coordinator**  
 *Jun 2024 — Present*
 
-Mentoring 50+ students through hands-on projects. Leading team sessions, delivering technical simulations, and coaching engineers on career growth — from resume building to interview prep.
+Mentoring 100+ students through hands-on projects. Leading team sessions, delivering technical simulations, and coaching engineers on career growth — from resume building to interview prep.
 
 </td>
 </tr>
