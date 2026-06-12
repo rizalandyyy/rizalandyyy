@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:36BCF7,100:F72585&text=Rizal%20Here!&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Digital%20Marketing%20%7C%20Bad%20Joke%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0A66C2,100:36BCF7&text=Mohamad%20Rizal%20Andy%20Al%20Karim&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Engineering%20Educator%20%C2%B7%20Consultant%20%C2%B7%20Lifelong%20Learner&descSize=17&descColor=ffffff&descAlignY=62" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rizal.;Software+Developer+%F0%9F%92%BB+|+Digital+Marketing+%F0%9F%93%B1+|+Curious+Mind+%F0%9F%A4%94" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=760&height=130&lines=Hey%2C+I'm+Rizal+%F0%9F%91%8B;Software+Engineer+%40+Astra+Daihatsu+Motor+%F0%9F%92%BB;Co-Founder+%40+Saturnz+ID+%F0%9F%9A%80;Engineering+Educator+%40+RevoU+%F0%9F%8E%93;Always+mengulik+AI+%F0%9F%A4%96+%7C+Lifelong+learner+%F0%9F%93%9A" alt="Typing SVG" />
 
 <br />
 
@@ -12,10 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=rizalandyyy&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
 <a href="https://github.com/rizalandyyy?tab=followers">
-  <img src="https://img.shields.io/github/followers/rizalandyyy?style=flat-square&color=36BCF7&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/rizalandyyy?style=flat-square&color=0A66C2&label=Followers" alt="Followers" />
 </a>
 <a href="https://github.com/rizalandyyy?tab=stars">
   <img src="https://img.shields.io/github/stars/rizalandyyy?style=flat-square&color=F72585&label=Stars" alt="Stars" />
+</a>
+<a href="https://www.linkedin.com/in/rizalandyyy/">
+  <img src="https://img.shields.io/badge/-rizalandyyy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -26,42 +29,149 @@
 
 ```javascript
 const rizal = {
-  pronouns: "he" | "him",
-  role: "Software Developer @ PT. Astra Daihatsu Motor",
-  location: "Indonesia 🇮🇩",
-  funFact: "Can debug your code, but not his own sleep schedule.",
-  currentlyLearning: ["clean code", "clean conversions", "clean desk (lol)"],
-  hobbies: ["bad jokes", "weird writing", "copying & pasting", "touching stars & moon"],
-  motto: "If it works, don't touch it. If it doesn't, copy-paste again.",
+  name: "Mohamad Rizal Andy Al Karim",
+  pronouns: "he | him",
+  location: "Jakarta Raya, Indonesia 🇮🇩",
+  dayJob: "Software Engineer @ PT. Astra Daihatsu Motor",
+  sideQuests: {
+    teaching: "Engineering Educator @ RevoU (Full Stack Software Engineering)",
+    building: "Co-Founder @ Saturnz ID — 24/7 helping everyone digitize their things",
+    tinkering: "Always mengulik AI, system design, and career growth",
+  },
+  yearsInTech: "8+ years building for the web",
+  motto: "Focus on things to create a significant impact.",
 };
 ```
 
-> *"I grew up in a tech environment and never stopped having fun with it."*
-
-- 🏢 Building software at **[PT. Astra Daihatsu Motor](https://daihatsu.co.id/)**
-- 💻 Website developer who codes fast, precisely, and only *slightly* dizzy
-- 📈 Equally obsessed with high-traffic funnels and well-named variables
-- 🌱 Always learning — because the day you stop is the day CSS outsmarts you
+> *"I grew up in tech, fell in love with building, and never stopped learning."*
 
 ---
 
-## 🛠️ Things I Touch (and Sometimes Break)
+## 🧢 What I Do
 
+<table align="center">
+<tr>
+<td align="center" width="200">
+  <img src="https://img.icons8.com/fluency/96/code.png" width="60" /><br />
+  <b>🧑‍💻 Software Engineer</b><br />
+  <sub>Building reliable web systems at scale</sub>
+</td>
+<td align="center" width="200">
+  <img src="https://img.icons8.com/fluency/96/teacher.png" width="60" /><br />
+  <b>🎓 Engineering Educator</b><br />
+  <sub>Teaching, mentoring, and coaching devs at RevoU</sub>
+</td>
+<td align="center" width="200">
+  <img src="https://img.icons8.com/fluency/96/consultation.png" width="60" /><br />
+  <b>🧑‍💼 Consultant</b><br />
+  <sub>Advising teams on architecture, product & growth</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+  <img src="https://img.icons8.com/fluency/96/rocket.png" width="60" /><br />
+  <b>🚀 Co-Founder</b><br />
+  <sub>Saturnz ID — digitization partner for everyone</sub>
+</td>
+<td align="center" width="200">
+  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60" /><br />
+  <b>🤖 AI Tinkerer</b><br />
+  <sub>Always mengulik LLMs, RAG & AI workflows</sub>
+</td>
+<td align="center" width="200">
+  <img src="https://img.icons8.com/fluency/96/learning.png" width="60" /><br />
+  <b>🌱 Lifelong Learner</b><br />
+  <sub>Self-dev, career growth, and people-first mindset</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Web & Backend
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,php,laravel,html,css,tailwind,react,vue,nodejs,mysql,postgres,git,github,vscode,figma,postman,docker,linux,nginx" alt="Tech stack" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,php,laravel,vue,nuxt,python,nodejs,html,css,tailwind,bootstrap,mysql,postgres,git,github,vscode,figma,docker,linux,nginx,electron" alt="Tech stack" /></a>
 </p>
 
+### 🤖 AI (sedang terus ngulik)
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vector_DB-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Workflows-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-F72585?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (a.k.a. receipts)
+## 💼 Experience Highlights
+
+### 🏢 Day Job — **PT. Astra Daihatsu Motor** (4+ years)
+
+> Building internal systems that move the automotive industry.
+
+| Period | Role | Focus |
+|---|---|---|
+| Feb 2025 – Present | Software Engineer — *DPT IT Supply Chain & Ops System Dev.* | Supply chain & operations platforms |
+| Jun 2022 – Feb 2025 | Software Engineer — *DPT IT Security, Infra & Strategic Plan.* | Architecture, security, cross-team leadership |
+
+**Key wins:** Led end-to-end system design, mentored engineers, defined secure testing standards, and shipped production systems with **Laravel · Vue · Nuxt · Python**.
+
+---
+
+### 🎓 Educator — **RevoU** (Full Stack Software Engineering)
+
+> Helping the next generation of engineers ship confidently.
+
+| Period | Role | Highlights |
+|---|---|---|
+| Jun 2025 – Present | Student Development Coordinator | 1:1 coaching, resume & interview prep, mentoring **50+ students** |
+| Jun 2024 – Dec 2024 | Team Lead | Curriculum delivery, tech-lead simulation, group project supervision |
+
+---
+
+### 🚀 Building — **Saturnz ID** (Co-Founder, Sep 2024 – Present)
+
+> *24/7 Helping Everyone to Digitize Their Things*
+
+A tech-solutions initiative focused on making digitalization accessible for businesses of any size.
+
+---
+
+## 🏅 Recognition
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥉_Bronze_Medal-Web_Design_Contest-FFB703?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_Finalist-Indonesian_Vocational_Olympics-8338EC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Finalist-Digital_Startup_Business_Plan-F72585?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎤_Speaker-Olivia_Workshop_2020-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📜_Certified-Electron_Desktop_Apps_Master-06D6A0?style=for-the-badge" />
+</p>
+
+---
+
+## 🗣️ Languages I Speak
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🇮🇩_Indonesian-Native-EA4335?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇬🇧_English-Professional-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇮🇩_Javanese-Fluent-8338EC?style=for-the-badge" />
+</p>
+
+---
+
+## 🎓 Education
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Universitas_Brawijaya-Information_Technology-0A66C2?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizalandyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
@@ -74,7 +184,7 @@ const rizal = {
 
 ---
 
-## 🏆 Trophies (look mom, I'm a winner!)
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rizalandyyy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
@@ -82,15 +192,14 @@ const rizal = {
 
 ---
 
-## 💡 Areas of Interest
+## 🎯 Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Digital_Content-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Writing_Weird_Stuff-F72585?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Making_Bad_Jokes-FFB703?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Love_Copy_Paste-8338EC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Leave_a_Legacy-06D6A0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Touch_Stars_%26_Moon-EF476F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLM%20Engineering-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design%20%26%20Architecture-F72585?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teaching%20%26%20Mentoring-FFB703?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Consulting%20%26%20Strategy-8338EC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Self--Dev%20%26%20Career%20Growth-06D6A0?style=for-the-badge" />
 </p>
 
 ---
@@ -103,6 +212,9 @@ const rizal = {
   </a>
   <a href="mailto:rzalandy@gmail.com">
     <img src="https://img.shields.io/badge/📩_Email-rzalandy@gmail.com-EA4335?style=for-the-badge" />
+  </a>
+  <a href="https://wa.me/6285791929584">
+    <img src="https://img.shields.io/badge/📱_WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -120,38 +232,11 @@ const rizal = {
 
 ---
 
-## 🐍 Contribution Snake (digital pet included!)
-
-> *Add the [github-readme-activity-graph](https://github.com/rikulas/github-readme-activity-graph) workflow to your profile repo to enable this cutie.*
-
-```text
-   🐍 ~ munching on your commits one PR at a time ~
-```
-
----
-
-## ✨ Random Words I Live By
-
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
->
-> *"99 little bugs in the code... take one down, patch it around... 117 little bugs in the code."*
+**Open for consulting, collaboration, and meaningful conversations.** 🚀  
+*Let's build something that creates real impact.*
 
-</div>
-
----
-
-<div align="center">
-
-### ☕ Fun Fact
-*If you scrolled this far, congratulations — you have the patience of a senior developer.  
-This README was built with caffeine, curiosity, and a suspicious amount of Stack Overflow.* ☕
-
-<br />
-
-**Thanks for stopping by!** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:36BCF7&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:0A66C2&height=120&section=footer" width="100%" />
 
 </div>
