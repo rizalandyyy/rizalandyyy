@@ -110,6 +110,14 @@ Most of my production work lives in private repositories — internal systems fo
 - **Booking Room** — meeting room scheduling and utilization
 - **Internal Chatbot & RPA** — automating repetitive back-office workflows
 
+### 🤖 RPA & Automation
+
+Python-based automation for the repetitive work that comes back every day.
+
+- **Excel daily activity automation** — daily spreadsheets that used to be filled, copied, and reconciled by hand now generate and update on their own.
+- **Manual process automation** — recurring routines that took hours of manual work now run in seconds to minutes.
+- **Chatbot & back-office workflows** — repetitive administrative steps across internal tools, automated end to end.
+
 ---
 
 ## Writing & Sharing
