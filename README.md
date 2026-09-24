@@ -6,7 +6,7 @@
 
 *Building software that helps the work go better.*
 
-Jakarta, Indonesia &nbsp;·&nbsp; [rizalandyyy.com](https://rizalandyyy.com) &nbsp;·&nbsp; [rzalandy@gmail.com](mailto:rzalandy@gmail.com)
+Jakarta, Indonesia &nbsp;·&nbsp; [rizalandyyy.com](https://rizalandyyy.com) &nbsp;·&nbsp; [saturn.id](https://saturn.id) &nbsp;·&nbsp; [rzalandy@gmail.com](mailto:rzalandy@gmail.com)
 
 </div>
 
@@ -16,7 +16,7 @@ Jakarta, Indonesia &nbsp;·&nbsp; [rizalandyyy.com](https://rizalandyyy.com) &nb
 
 I'm a software engineer who cares about the part after the code ships — whether the system actually makes someone's work easier.
 
-By day I build and maintain internal systems at **PT. Astra Daihatsu Motor**, where I also serve as Product Champion for IT Security. Outside of that, I co-founded **Saturnz ID** to help businesses digitize their operations, and I mentor software engineers at **RevoU**.
+By day I build and maintain internal systems at **PT. Astra Daihatsu Motor**, where I also serve as Product Champion for IT Security. Outside of that, I co-founded **[Saturnz ID](https://saturn.id)** — PT Ruang Teknologi Universal — and lead its engineering as **Technical Leader**, helping businesses get their operations online. I also mentor software engineers at **RevoU**.
 
 I like problems that are messy and real: legacy systems that need untangling, processes still running on spreadsheets, teams that need a second pair of eyes before a release. My work usually starts with the problem, not the framework.
 
@@ -37,11 +37,11 @@ Designing and building internal systems with Laravel, Vue, Nuxt, and Python. Pro
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Co-Founder
-**Saturnz ID — PT Ruang Teknologi Universal**
+### 🚀 Co-Founder & Technical Leader
+**[Saturnz ID](https://saturn.id) — PT Ruang Teknologi Universal**
 *Sep 2024 — Present*
 
-A software house helping businesses of any size get their operations online. Web apps, internal tools, and AI-assisted workflows.
+A software house helping businesses of any size get their operations online. I own the technical side — architecture, code review, and delivery — building web apps, internal tools, and AI-assisted workflows.
 
 </td>
 </tr>
@@ -131,6 +131,7 @@ I write about software engineering, the reasoning behind technical decisions, an
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@rizalandyyy)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rizalandyyy)
 [![Website](https://img.shields.io/badge/rizalandyyy.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rizalandyyy.com)
+[![Saturnz ID](https://img.shields.io/badge/saturn.id-1B1B1F?style=for-the-badge&logo=saturn&logoColor=white)](https://saturn.id)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rzalandy@gmail.com)
 
 </div>
