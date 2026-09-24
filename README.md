@@ -16,9 +16,9 @@ Jakarta, Indonesia &nbsp;·&nbsp; [rizalandyyy.com](https://rizalandyyy.com) &nb
 
 I'm a software engineer who cares about the part after the code ships — whether the system actually makes someone's work easier.
 
-By day I build and maintain internal systems at **PT. Astra Daihatsu Motor**, including security and access management work across internal applications. Outside of that, I co-founded **[Saturnz ID](https://saturnz.id)** — PT Ruang Teknologi Universal — and lead its engineering as **Technical Leader**, helping businesses get their operations online. I also mentor software engineers at **RevoU**.
+By day I build and maintain internal systems at **[PT. Astra Daihatsu Motor](https://daihatsu.co.id)**, including security and access management work across internal applications. Outside of that, I co-founded **[Saturnz ID](https://saturnz.id)** — PT Ruang Teknologi Universal — and lead its engineering as **Technical Leader**, helping businesses get their operations online. I also mentor software engineers at **[RevoU](https://revou.co)**.
 
-I like problems that are messy and real: legacy systems that need untangling, processes still running on spreadsheets, teams that need a second pair of eyes before a release. My work usually starts with the problem, not the framework.
+I like problems that are messy and real: legacy systems that need untangling, processes still running on spreadsheets, teams that need a second pair of eyes before a release. My work starts with the business problem, not the framework — understanding what's actually happening, who it affects, and what success means to them — then solving it with something user-centric that people are genuinely satisfied with.
 
 ---
 
@@ -29,7 +29,7 @@ I like problems that are messy and real: legacy systems that need untangling, pr
 <td width="50%" valign="top">
 
 ### 🏢 Software Engineer
-**PT. Astra Daihatsu Motor**
+**[PT. Astra Daihatsu Motor](https://daihatsu.co.id)**
 *Jun 2022 — Present*
 
 Designing and building internal systems with Laravel, Vue, Nuxt, and Python. Also working on security and access management across internal applications.
@@ -49,7 +49,7 @@ An AI-integrated software house helping businesses of any size get their operati
 <td colspan="2" valign="top">
 
 ### 🎓 Engineering Mentor
-**RevoU — Software Engineering Course**
+**[RevoU](https://revou.co)** — Software Engineering Course
 *Jun 2024 — Present*
 
 Team Lead and mentor for 100+ students. Reviewing projects, giving code feedback, running technical simulations, and coaching engineers through interview preparation.
